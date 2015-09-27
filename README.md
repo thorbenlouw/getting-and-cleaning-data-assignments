@@ -1,5 +1,8 @@
 # getting-and-cleaning-data-assignments
-Assignments from the Coursera Course "Getting and Cleaning Data", part of the Data Science Specialization
+Assignments from the Coursera Course "Getting and Cleaning Data", part of the Data Science Specialization.
+
+This project took the data files from the 
+Human Activity Recognition Using Smartphones Data Set at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones and attempts to produce a tidy data set with some of the variable summarised.  
 
 ## Description of files in this repository
 * *README.md* - this file
