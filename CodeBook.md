@@ -14,7 +14,7 @@ The data set in tidy.txt contains a summary of the original experiment data.
 4. tBodyAcc.mean.Y: The *mean* of the original observations of tBodyAcc-mean()-Y
 5. tBodyAcc.mean.Z: The *mean* of the original observations of tBodyAcc-mean()-Z
 6. tBodyAcc.std.X: The *mean* of the original observations of tBodyAcc-std()-X
-7. tBodyAcc.std.Y: etc.
+7. tBodyAcc.std.Y: etc. (Refer to original dataset for detailed descriptions of the underlying variables)
 8. tBodyAcc.std.Z:
 9. tGravityAcc.mean.X:
 10. tGravityAcc.mean.Y:
